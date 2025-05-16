@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Taches		TAR	343	nouvelle taille enregistrement : 343
+Taches	Kanban_Liste	RUB+		Kanban_Liste est une nouvelle rubrique
+Taches	Kanban_Indice	RUB+		Kanban_Indice est une nouvelle rubrique
